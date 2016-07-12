@@ -61,6 +61,15 @@ let fastAndFuriousFilms = [
     "Fast 8"
 ]
 
+let xMenFilms = [
+    "X-Men",
+    "X2",
+    "X-Men: The Last Stand",
+    "X-Men: First Class",
+    "X-Men: Days of Future Past",
+    "X-Men: Apocalypse"
+]
+
 let movies = [
     "Star Wars": starWarsFilms,
     "Fast & Furious": fastAndFuriousFilms,
